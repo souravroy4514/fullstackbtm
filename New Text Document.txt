@@ -1,0 +1,19 @@
+<nav> indicates Navbar - it is a bootstrapclass - documentation and examples for bootstraps powerful responsive navigation header the navbar. Includes 
+suppoet for branding , nabvigation, and more including support for our collapse plugin.
+Navbars come with built-in-support for a handful of sub-components.Choose from the following as needed"
+* .navbar-brand for your company,product or project name.
+* .navbar-nav for a full height and lightweight navigation (including support for dropdown).
+* .navbar-toggler for use with our collapse plugin and other navigatin toggling behaviour.
+
+Image Sprites
+An image sprite is a collection of images put into a single image.
+
+A web page with many images can take a long time to load and generates multiple server requests.
+
+Using image sprites will reduce the number of server requests and save bandwidth.
+
+Image Sprites - Simple Example
+The z-index property specifies the stack order of an element.
+An element with greater stack order is always in fornt of an element with the lower stack order.
+
+Note:z-index only works on positioned
